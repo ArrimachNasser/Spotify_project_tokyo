@@ -2,7 +2,8 @@
 Week 3 group project
 
 
-# Spotify Top 50 Analysis :nota_musical:
+# Spotify Top 50 Analysis  🎵
+
 ## Overview
 Music streaming is part of our daily life, yet few understand what makes a song truly popular. While all songs in the Spotify Top 50 are successful, there is still significant variation in popularity scores and chart positions.
 By analyzing the Top 50 songs of 2019, we aim to identify **which musical characteristics separate the biggest hits (positions 1-20) from moderate hits (positions 21-50)**.
